@@ -11,7 +11,7 @@
   </a>
  </div>
 
-<img src="https://komarev.com/ghpvc/?username=dipukanu&style=flat-square&color=blue" alt="loading"/>
+<img src="https://komarev.com/ghpvc/?username=dipu-repliq&style=flat-square&color=blue" alt="loading"/>
 <h1>
   Hi, I'm Dipu Kanu
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
